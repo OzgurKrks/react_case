@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Weather React App
 
 demo_link : https://react-case.vercel.app/
 
