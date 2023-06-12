@@ -83,21 +83,21 @@ p {
 }
 .form-wrapper{
 
-  height:50%;
+  height:500px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 .form-input{
-  width: 50%;
-  height: 50%;
+  width: 350px;
+  height: 21px;
   padding: 10px;
   border: none;
   border-radius: 0%;
 }
 .form-button{
 
-  height: 20%;
+  height: 41px;
 }
 
 @media only screen and (max-width: 600px) {
